@@ -3,6 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Eight Ball Answer"
         Height="328"
+        MinHeight="100"
         Width="412">
     <Grid>
         <Grid.RowDefinitions>
