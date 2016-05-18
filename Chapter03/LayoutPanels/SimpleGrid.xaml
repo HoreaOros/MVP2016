@@ -5,11 +5,11 @@
     >
     <Grid ShowGridLines="True">
       <Grid.RowDefinitions>
-        <RowDefinition></RowDefinition>
+        <RowDefinition Height="3*"></RowDefinition>
         <RowDefinition></RowDefinition>
       </Grid.RowDefinitions>
       <Grid.ColumnDefinitions>
-        <ColumnDefinition></ColumnDefinition>
+        <ColumnDefinition Width="2*"></ColumnDefinition>
         <ColumnDefinition></ColumnDefinition>
         <ColumnDefinition></ColumnDefinition>
       </Grid.ColumnDefinitions>
