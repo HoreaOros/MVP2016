@@ -24,5 +24,14 @@ namespace Drawing
             InitializeComponent();
         }
 
+        private void Canvas_MouseMove(object sender, MouseEventArgs e)
+        {
+
+        }
+
+        private void poly_MouseMove(object sender, MouseEventArgs e)
+        {
+            //poly.Points.Add(new Point(220, 260));
+        }
     }
 }
